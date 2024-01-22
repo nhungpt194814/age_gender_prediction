@@ -1,0 +1,11 @@
+dlib
+imutils
+keras
+matplotlib
+numpy
+opencv_python
+pandas
+Pillow
+scikit_learn
+seaborn
+tensorflow
